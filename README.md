@@ -36,6 +36,10 @@
 - Fabriccontroller subsystem: https://github.com/csipiemonte/yucca-fabriccontroller
 - User interface (front and backoffice) system: https://github.com/csipiemonte/yucca-userportal
 
+Here a high level component diagram:
+
+![Image of high level component diagram](img/component_diagram.png)
+
 ###Auxiliary repositories:
 
 - Angular Widgets ready-to-use integrated with yucca API (oData and websocket): https://github.com/csipiemonte/yucca-angular-widgets
