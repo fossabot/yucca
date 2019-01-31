@@ -51,3 +51,6 @@ Here a high level component diagram:
 - Integration with Zeppelin to create a complete self-service experience (from sensor to reporting)
 - Integration with Apache Ranger for security also at speed layer level
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzkxNjU4NTUzXX0=
+-->
