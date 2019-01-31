@@ -5,4 +5,4 @@ Nella sezione DATASET della pagina di gestione è possibile visualizzare l’ele
 
 
 
-.. figure:: img/img1.jpg
+.. figure:: ./demo/img/img1.jpg
