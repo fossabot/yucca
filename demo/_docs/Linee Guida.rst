@@ -1,3 +1,6 @@
+**Linee Guida**
+**********************************
+
 Nel documento di `Linee Guida <http://developer.smartdatanet.it/wp-content/uploads/2014/09/Linee-Guida-per-l%E2%80%99integrazione-in-Smart-Data-Net-v1_3-1.pdf>`_ sono riportate:
 
 •	le principali specifiche tecniche di integrazione con la Piattaforma
