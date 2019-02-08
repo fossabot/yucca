@@ -6,10 +6,10 @@ Attualmente, YUCCA supporta i seguenti protocolli di Input/Output
 In questo articolo vengono descritte solo le informazioni principali relative ai protocolli. Le indicazioni sulle architetture applicative sono solo a titolo esemplificativo: l’architettura da adottare e i protocolli da utilizzare dipendono dai requisiti dell’applicazione e la loro scelta è a carico dei gruppi di progetto delle stesse. Per il formato dei messaggi e per le URL delle code e dei servizi vedere questa pagina.
 
 .. figure:: img/protocolli-yucca.png
- 
-==============================================
-Protocollo di streaming MQTT(s) (input/output)
-==============================================
+
+
+**Protocollo di streaming MQTT(s) (input/output)**
+
 
 **MQTT (Message Queuing Telemetry Transport)** è un protocollo di messaggistica leggero, studiato per dispositivi limitati in termini di risorse (cpu, memoria) che operano su reti a bassa largheza di banda e ad alta latenza. Implementa il paradigma publish/subscribe. E’ uno standard OASIS. E’ utilizzabile sia in INPUT che in OUTPUT.
 
@@ -49,9 +49,9 @@ Smart Data Platfom non fornisce nessun supporto sull’utilizzo delle librerie MQT
 **Dove approfondire**
 Per approfondimenti fare riferimento alle `specifiche <mqtt.org>`_ del protocollo.
  
-=======================================
-Protocollo HTTP(s) per l’invio dei dati
-=======================================
+
+**Protocollo HTTP(s) per l’invio dei dati**
+
 
 **Http(S) (HyperText Transfer Protocol )** è il protocollo di trasferimento dati utilizzato per le normali comunicazioni sul web utilizzando un paradigma client/server. Le specifiche del protocollo sono gestite dal Word Wide Web Consortium.
 
@@ -87,9 +87,9 @@ Smart Data Platform non suggerisce l’utilizzo di nessuna libreria o framework HT
 Per approfondimenti fare riferimento alle `specifiche <https://www.w3.org/Protocols/rfc2616/rfc2616.html>`_ del protocollo.
  
 
-=========================================================================
-Protocollo di streaming STOMP (over web socket) per la fruizione dei dati
-=========================================================================
+
+**Protocollo di streaming STOMP (over web socket) per la fruizione dei dati**
+
 
 **STOMP (Simple Text-Oriented Messaging Protocol**) è un protocollo che definisce il formato dei messaggi che transitano fra client e server. Si appoggia, come layer di trasporto, al protocollo web socket che fornisce canali di comunicazione full-dublex attraverso una singola connessione TCP/IP. Di fatto consente al server di inviare notifiche al client senza la necessità di essere invocato (modalità push).
 
@@ -124,9 +124,9 @@ Smart Data Platform non suggerisce l’utilizzo di nessuna libreria o framework ST
 Dove approfondire
 Per approfondimenti fare riferimento alle `specifiche <http://jmesnil.net/stomp-websocket/doc/>`_ del protocollo.
 
-============================================ 
-REST oData Service per la fruizione dei dati
-============================================
+
+**REST oData Service per la fruizione dei dati**
+
 
 **ODATA (Open Data)** è un protocollo, rilasciato da Microsoft, che definisce le modalità di esposizione e richiamo di servizi REST. Si appoggia al protocollo HTTP del quale eredita le modalità di accesso e fruizione.
 
@@ -157,9 +157,9 @@ Smart Data Platform non suggerisce l’utilizzo di nessuna libreria o framework HT
 **Dove approfondire**
 Per approfondimenti fare riferimento alle `specifiche <https://www.odata.org/>`_ del protocollo.
 
-=================
-Download dei file
-=================
+
+**Download dei file**
+
 
 Si tratta della funzionalità standard di download, via HTTP, utilizzata dai siti e dalle applicazioni web.
 
