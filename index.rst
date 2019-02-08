@@ -12,3 +12,4 @@ Demo yucca
    demo/_docs/Linee Guida.rst
    demo/_docs/CreazioneDataset.rst
    demo/_docs/GruppiDataset.rst
+   
