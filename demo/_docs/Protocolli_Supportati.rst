@@ -47,8 +47,7 @@ Smart Data Platform non suggerisce l’utilizzo di nessuna libreria o framework MQ
 Smart Data Platfom non fornisce nessun supporto sull’utilizzo delle librerie MQTT per il quale rimanda al produttore delle stesse.
 
 **Dove approfondire**
-Per approfondimenti fare riferimento alle `specifiche <mqtt.org>`_
- del protocollo.
+Per approfondimenti fare riferimento alle `specifiche <mqtt.org>`_ del protocollo.
  
 =======================================
 Protocollo HTTP(s) per l’invio dei dati
@@ -156,8 +155,7 @@ Il protocollo supporta la modalità sicura HTTPS. Tale modalità non è obbligatori
 Smart Data Platform non suggerisce l’utilizzo di nessuna libreria o framework HTTP, REST o oData ma lascia la scelta allo sviluppatore dell’applicazione. Smart Data Platfom non fornisce nessun supporto sull’utilizzo delle librerie utilizzate per il quale rimanda al produttore delle stesse.
 
 **Dove approfondire**
-Per approfondimenti fare riferimento alle `specifiche <https://www.odata.org/>`_
- del protocollo.
+Per approfondimenti fare riferimento alle `specifiche <https://www.odata.org/>`_ del protocollo.
 
 =================
 Download dei file
