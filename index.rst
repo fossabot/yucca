@@ -27,7 +27,12 @@ Welcome to Yucca's documentation!
    docs/Come_accedere
    
    
+.. toctree::
 
+   docs/Cosa_e_Yucca.rst
+   docs/Cosa_puoi_fare.rst
+   docs/Come_accedere.rst
+   
 Indices and tables
 ==================
 
