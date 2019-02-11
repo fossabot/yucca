@@ -8,29 +8,8 @@ Welcome to Yucca's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Sottotitolo:
    
-   Cosa_e_Yucca
-   Cosa_puoi_fare
-   Come_accedere
-   Use_Cases
-   Protocolli_Supportati
-   Linee_Guida
-   Yucca_GitHub
-   CreazioneDataset
-   GruppiDataset
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents_cart:
-   
-   docs/Cosa_e_Yucca.rst
-   docs/Cosa_puoi_fare.rst
-   docs/Come_accedere.rst
-   
-   
-.. toctree::
-
    docs/Cosa_e_Yucca.rst
    docs/Cosa_puoi_fare.rst
    docs/Come_accedere.rst
