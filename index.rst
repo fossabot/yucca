@@ -9,6 +9,7 @@ Welcome to Yucca's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
    Cosa_e_Yucca
    Cosa_puoi_fare
    Come_accedere
@@ -22,9 +23,10 @@ Welcome to Yucca's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents_cart:
-   docs/Cosa_e_Yucca
-   docs/Cosa_puoi_fare
-   docs/Come_accedere
+   
+   docs/Cosa_e_Yucca.rst
+   docs/Cosa_puoi_fare.rst
+   docs/Come_accedere.rst
    
    
 .. toctree::
@@ -32,6 +34,13 @@ Welcome to Yucca's documentation!
    docs/Cosa_e_Yucca.rst
    docs/Cosa_puoi_fare.rst
    docs/Come_accedere.rst
+   docs/Use_Cases.rst
+   docs/Protocolli_Supportati.rst
+   docs/Linee_Guida.rst
+   docs/Yucca_GitHub.rst
+   docs/CreazioneDataset.rst
+   docs/GruppiDataset.rst
+
    
 Indices and tables
 ==================
