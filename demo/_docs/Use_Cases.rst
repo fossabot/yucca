@@ -2,44 +2,44 @@
 **********************************
 **Progetti in Corso**
 
-* **Rifiuti in Piemonte** ñ Strumenti per gestire meglio la raccolta differenziata in Piemonte | `Scheda Progetto <http://www.smartdatanet.it/progetti/157-rifiuti-in-piemonte.html>`_
-* **WiFi Pubblico** ñ Analizzare il WiFi pubblico per fornire un servizio sempre migliore | `Scheda Progetto <http://www.smartdatanet.it/progetti/156-wi-fi-pubblico.html>`_
-* **Incidentalit‡** ñ Cruscotto di monitoraggio della sicurezza stradale regionale | `Scheda Progetto <http://www.smartdatanet.it/progetti/147-incidentalita.html>`_
-* **BIG IoT** ñ Uníinterfaccia unificata per utilizzare dati pubblici e privati provenienti da piattaforme diverse | `Scheda Progetto <http://www.smartdatanet.it/progetti/146-big-iot.html>`_
-* **Statistica** ñ Studio di fattibilit‡ per usare il dati del servizio statistico regionale | `Scheda Progetto <http://www.smartdatanet.it/progetti/145-statistica.html>`_
-* **Wanda** ñ Servizio di informazione ambientale con dati sulle concentrazioni orarie di inquinamento atmosferico nella citt‡ di Torino | `Scheda Progetto  <http://www.smartdatanet.it/progetti/149-wanda.html>`_
-* **The4Bees** ñ Innovazione tecnologica per modificare le abitudini di consumo delle persone e risparmiare energia | `Scheda Progetto <http://www.smartdatanet.it/progetti/150-the4bees.html>`_
-* **Symon** ñ Monitorare in modo costante il funzionamento delle applicazioni | `Scheda Progetto <http://www.smartdatanet.it/progetti/155-symon.html>`_
-* **MËmora** ñ Una piattaforma per catalogare e valorizzare i beni culturali, sia di tipo archivistico sia di tipo museale | `Scheda Progetto <http://www.smartdatanet.it/progetti/151-memora.html>`_
-* **Cruscotto IRAP** ñ Strumenti previsionali per le politiche fiscali regionali | `Scheda Progetto <http://www.smartdatanet.it/progetti/152-cruscotto-irap.html >`_
+* **Rifiuti in Piemonte** ‚Äì Strumenti per gestire meglio la raccolta differenziata in Piemonte | `Scheda Progetto <http://www.smartdatanet.it/progetti/157-rifiuti-in-piemonte.html>`_
+* **WiFi Pubblico** ‚Äì Analizzare il WiFi pubblico per fornire un servizio sempre migliore | `Scheda Progetto <http://www.smartdatanet.it/progetti/156-wi-fi-pubblico.html>`_
+* **Incidentalit√†** ‚Äì Cruscotto di monitoraggio della sicurezza stradale regionale | `Scheda Progetto <http://www.smartdatanet.it/progetti/147-incidentalita.html>`_
+* **BIG IoT** ‚Äì Un‚Äôinterfaccia unificata per utilizzare dati pubblici e privati provenienti da piattaforme diverse | `Scheda Progetto <http://www.smartdatanet.it/progetti/146-big-iot.html>`_
+* **Statistica** ‚Äì Studio di fattibilit√† per usare il dati del servizio statistico regionale | `Scheda Progetto <http://www.smartdatanet.it/progetti/145-statistica.html>`_
+* **Wanda** ‚Äì Servizio di informazione ambientale con dati sulle concentrazioni orarie di inquinamento atmosferico nella citt√† di Torino | `Scheda Progetto  <http://www.smartdatanet.it/progetti/149-wanda.html>`_
+* **The4Bees** ‚Äì Innovazione tecnologica per modificare le abitudini di consumo delle persone e risparmiare energia | `Scheda Progetto <http://www.smartdatanet.it/progetti/150-the4bees.html>`_
+* **Symon** ‚Äì Monitorare in modo costante il funzionamento delle applicazioni | `Scheda Progetto <http://www.smartdatanet.it/progetti/155-symon.html>`_
+* **M√®mora** ‚Äì Una piattaforma per catalogare e valorizzare i beni culturali, sia di tipo archivistico sia di tipo museale | `Scheda Progetto <http://www.smartdatanet.it/progetti/151-memora.html>`_
+* **Cruscotto IRAP** ‚Äì Strumenti previsionali per le politiche fiscali regionali | `Scheda Progetto <http://www.smartdatanet.it/progetti/152-cruscotto-irap.html >`_
 * **Dati Piemonte** - DESCRIZIONE SBAGLIATA | `Scheda Progetto <http://www.smartdatanet.it/progetti/154-dati-piemonte.html>`_
-* **O.N.D.E.** ñ Il progetto utilizza Big Data generati dalla raccolta dei rifiuti solidi nellíambito urbano con líobiettivo di ottimizzare i cicli di raccolta | `Scheda Progetto <http://www.smartdatanet.it/progetti/79-onde-yucca.html>`_
-* **QUADRANTE** ñ Il progetto QUADRANTE ha líobiettivo di sviluppare uno strumento per fornire indicazioni sulla qualit‡ dellíaria generando cosÏ un modello predittivo della concentrazione di NO2 | `Scheda Progetto <http://www.smartdatanet.it/progetti/80-quandrante-yucca.html>`_
-* **QUIES** ñ Il progetto QUIES sperimenta líutilizzo di una rete di sensori acustici a basso costo installati in una porzione del territorio della citt‡ di Torino | `Scheda Progetto <http://www.smartdatanet.it/progetti/81-quies-yucca.html>`_
-* **SEeS@W** ñ Il progetto SEeS@W esplora servizi innovativi per la sicurezza sul lavoro sfruttando i dati prodotti da sensori o prodotti dai lavoratori secondo il modello dellí ìInternet of Peopleî (IoP) | `Scheda Progetto <http://www.smartdatanet.it/progetti/82-sees-w-yucca.html>`_
-* **Sorriso** ñ Il progetto nasce per migliorare líefficienza energetica negli edifici scolastici e residenziali dotati di impianti fotovoltaici | `Scheda Progetto <http://www.smartdatanet.it/progetti/83-sorriso-yucca.html >`_
-* **Librare** ñ Libera il libri cartacei dal loro peso e li trasporta nella realt‡ virtuale  | `Scheda Progetto <http://www.smartdatanet.it/progetti/76-librare-yucca.html>`_
-* **Limpid** ñ Monitorare il traffico e gli spostamenti per migliorare la mobilit‡ sul territorio | `Scheda Progetto <http://www.smartdatanet.it/progetti/78-limpid-yucca.html>`_
-* **ESGP** ñ La building automation ecosostenibile per il risparmio energetico | `Scheda Progetto <http://www.smartdatanet.it/progetti/74-esgp-yucca.html>`_
+* **O.N.D.E.** ‚Äì Il progetto utilizza Big Data generati dalla raccolta dei rifiuti solidi nell‚Äôambito urbano con l‚Äôobiettivo di ottimizzare i cicli di raccolta | `Scheda Progetto <http://www.smartdatanet.it/progetti/79-onde-yucca.html>`_
+* **QUADRANTE** ‚Äì Il progetto QUADRANTE ha l‚Äôobiettivo di sviluppare uno strumento per fornire indicazioni sulla qualit√† dell‚Äôaria generando cos√¨ un modello predittivo della concentrazione di NO2 | `Scheda Progetto <http://www.smartdatanet.it/progetti/80-quandrante-yucca.html>`_
+* **QUIES** ‚Äì Il progetto QUIES sperimenta l‚Äôutilizzo di una rete di sensori acustici a basso costo installati in una porzione del territorio della citt√† di Torino | `Scheda Progetto <http://www.smartdatanet.it/progetti/81-quies-yucca.html>`_
+* **SEeS@W** ‚Äì Il progetto SEeS@W esplora servizi innovativi per la sicurezza sul lavoro sfruttando i dati prodotti da sensori o prodotti dai lavoratori secondo il modello dell‚Äô ‚ÄúInternet of People‚Äù (IoP) | `Scheda Progetto <http://www.smartdatanet.it/progetti/82-sees-w-yucca.html>`_
+* **Sorriso** ‚Äì Il progetto nasce per migliorare l‚Äôefficienza energetica negli edifici scolastici e residenziali dotati di impianti fotovoltaici | `Scheda Progetto <http://www.smartdatanet.it/progetti/83-sorriso-yucca.html >`_
+* **Librare** ‚Äì Libera il libri cartacei dal loro peso e li trasporta nella realt√† virtuale  | `Scheda Progetto <http://www.smartdatanet.it/progetti/76-librare-yucca.html>`_
+* **Limpid** ‚Äì Monitorare il traffico e gli spostamenti per migliorare la mobilit√† sul territorio | `Scheda Progetto <http://www.smartdatanet.it/progetti/78-limpid-yucca.html>`_
+* **ESGP** ‚Äì La building automation ecosostenibile per il risparmio energetico | `Scheda Progetto <http://www.smartdatanet.it/progetti/74-esgp-yucca.html>`_
  
 
 **Progetti Conclusi**
 
 * **P-PSAFA** - Piattaforma per la Personalizzazione dei Servizi di Assistenza per Soggetti Fragili e Anziani | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/141-p-psafa-2.html>`_
-* **CityPayñID** - Portale per il Pagamento verso Enti pubblici con strumenti in mobilit‡ | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/138-citypay-id-2.html>`_
-* **IP ñ OWIT** - Internet Protocol for Organic Waste Integrated Treatment | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/140-ip-owit-2.html>`_
+* **CityPay‚ÄìID** - Portale per il Pagamento verso Enti pubblici con strumenti in mobilit√† | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/138-citypay-id-2.html>`_
+* **IP ‚Äì OWIT** - Internet Protocol for Organic Waste Integrated Treatment | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/140-ip-owit-2.html>`_
 * **Haladin@School** - Living Lab Scuole 2014 | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/153-living-lab-scuole-2.html>`_
 * **Health Commons** - Metodi e strumenti per ricostruire la storia sanitaria (Electronic Health Record) di un paziente | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/139-healthcommons-2.html>`_
 * **SMARTOWEAR** - Acquisizione di dati biometrici di pazienti per fornire un servizio di assistenza domiciliare a distanza | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/142-smartowear-2.html>`_
-* **ALL4ALL** - Ecosistema Digitale Solidale per líInclusione Sociale | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/137-all4all-2.html>`_
+* **ALL4ALL** - Ecosistema Digitale Solidale per l‚ÄôInclusione Sociale | `Scheda Progetto <http://www.smartdatanet.it/progetti/progetti-conclusi/137-all4all-2.html>`_
 
 
 
 
-**Esempi in ambito Iot ñ Publisher/Subscriber**
+**Esempi in ambito Iot ‚Äì Publisher/Subscriber**
 
-ï	`Smart commuter <http://developer.smartdatanet.it/platform/use-cases/smart-commuter/>`_
-ï	`Smart emergency response <http://developer.smartdatanet.it/platform/use-cases/smart-emergency-responce/>`_
-ï	`Smart street lighting <http://developer.smartdatanet.it/platform/use-cases/smart-street-lighting/>`_
-ï	`Smart urban planning <http://developer.smartdatanet.it/platform/use-cases/smart-urban-planning/>`_
-ï	`Smart urban waste management  <http://developer.smartdatanet.it/platform/use-cases/smart-urban-waste-management/>`_     
+‚Ä¢	`Smart commuter <http://developer.smartdatanet.it/platform/use-cases/smart-commuter/>`_
+‚Ä¢	`Smart emergency response <http://developer.smartdatanet.it/platform/use-cases/smart-emergency-responce/>`_
+‚Ä¢	`Smart street lighting <http://developer.smartdatanet.it/platform/use-cases/smart-street-lighting/>`_
+‚Ä¢	`Smart urban planning <http://developer.smartdatanet.it/platform/use-cases/smart-urban-planning/>`_
+‚Ä¢	`Smart urban waste management  <http://developer.smartdatanet.it/platform/use-cases/smart-urban-waste-management/>`_     
