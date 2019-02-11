@@ -1,6 +1,8 @@
 {% extends "!layout.html" %}
+{% block extrabody %}<div>HEad extrabody</div> {% endblock %}
 {% include 'header.html' %}
 {% block rootrellink %}
     <li><a href="https://project.invalid/">Project Homepage</a> &raquo;</li>
     {{ super() }}
 {% endblock %}
+{%- block footer %}<div>fooooooterz</div> {% endblock %}
