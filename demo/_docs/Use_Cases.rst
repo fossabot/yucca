@@ -1,5 +1,7 @@
+=============
 **Use Cases**
-**********************************
+=============
+
 **Progetti in Corso**
 
 * **Rifiuti in Piemonte** – Strumenti per gestire meglio la raccolta differenziata in Piemonte | `Scheda Progetto <http://www.smartdatanet.it/progetti/157-rifiuti-in-piemonte.html>`_
