@@ -4,6 +4,7 @@ Demo yucca
 
 
 .. toctree::
+   demo/_docs/Overview_Yucca.rst
    demo/_docs/Cosa_e_Yucca.rst
    demo/_docs/Cosa_puoi_fare.rst
    demo/_docs/Come_accedere.rst
