@@ -14,7 +14,7 @@ TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
    :maxdepth: 2
    :numbered:
 
-   Cosa_e_Yucca
-   Cosa_puoi_fare
-   Use_Cases
+   Cosa_e_Yucca.rst
+   Cosa_puoi_fare.rst
+   Use_Cases.rst
    
