@@ -1,14 +1,17 @@
 .wy-body-for-nav{background: #fff url(../img/bg.jpg) repeat;}
 .wy-nav-content-wrap{background-color: transparent;}
-.wy-nav-content{ box-shadow: 7px 0px 12px 1px #dee2e6;}
+.wy-nav-content{ box-shadow: 7px 0px 12px 1px #dee2e6;background-color: #fff;}
 .wy-side-nav-search{background-color: #ecf1ed;}
-.wy-nav-side{background-color: #fff; box-shadow: 7px 0px 12px 1px #dee2e6; color:#494c4f; }
-.wy-menu-vertical a{color:#212529; }}
 .wy-side-nav-search>a{color: #212529;}
+.wy-side-nav-search>div.version {margin:0; display: inline-block;font-size: .9em;color: #999b9d;}
+
+.wy-nav-side{background-color: #fff; box-shadow: 7px 0px 12px 1px #dee2e6; color:#999b9d; }
+.wy-menu-vertical a{color:#212529; }
+.wy-menu-vertical a:hover {background-color: #4e4a4a;color:#fff;}
 
 .yucca-logo{background: transparent url(../img/logoyucca.png) no-repeat center;min-width: 190px;height: 103px; display: block;}
 
-
+#yucca-header{text-align: left;}
 
 
 

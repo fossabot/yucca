@@ -109,6 +109,7 @@ html_static_path = ['_static']
 def setup(app):
     # app.add_stylesheet("css/custom.css")
     app.add_stylesheet("css/yucca.css")
+    app.add_javascript('js/yucca.js')
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
