@@ -1,3 +1,3 @@
 {% extends "!layout.html" %}
-{% block sidebartitle %}{% include 'yucca-sidebartitle.html' %}{% endblock %}
+{% block sidebartitle %}{% include 'yucca-sidebartitle.html' %}{{ super() }}{% endblock %}
 {% block footer %}{% include 'yucca-footer.html' %}{% endblock %}
