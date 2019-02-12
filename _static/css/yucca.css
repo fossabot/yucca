@@ -14,8 +14,9 @@
 
 
 
-.yucca-logo{background: transparent url(../img/logoyucca.png) no-repeat center;min-width: 190px;height: 103px; display: block;}
-#yucca-header{text-align: right; padding: 1.618em 3.236em; background-color: #ecf1ed; margin-bottom:1.618em; }
+.yucca-logo{background: transparent url(../img/logoyucca.png) no-repeat center;min-width: 190px;height: 130px; display: block;}
+#yucca-header{text-align: right; padding: 1.618em 3.236em; background-color: #ecf1ed; }
+#yucca-header a{color: #212529; font-size: 1.2em; font-weight: bold;}
 
 
 

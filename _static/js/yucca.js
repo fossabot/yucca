@@ -1,8 +1,8 @@
 $(document).ready(function(){
 	$.ajax({
 		url : 'https://userportal.smartdatanet.it/userportal/api/info?',
-		type : 'GET',
-		dataType:'json',
+		dataType:'jsonp',
+		jsonp: "callback",
 		success : function(data) {              
 			console.log('info: '+data);
 		},
