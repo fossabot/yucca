@@ -93,7 +93,7 @@ pygments_style = None
 html_static_path = ['_static']
 def setup(app):
     # app.add_stylesheet("css/custom.css")
-    app.add_stylesheet("yucca.css")
+    app.add_stylesheet("css/yucca.css")
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
