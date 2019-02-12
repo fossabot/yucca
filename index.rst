@@ -4,6 +4,8 @@ Demo Yucca
 
 
 .. toctree::
+ :maxdepth: 2
+
    demo/_docs/Overview_Yucca.rst
    demo/_docs/Cosa_e_Yucca.rst
    demo/_docs/Cosa_puoi_fare.rst
