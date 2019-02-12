@@ -5,7 +5,7 @@ $(document).ready(function(){
 		jsonp: "callback",
 		success : function(data) {              
 			console.log('info : ', data);
-			if(data && data.user && data.user.username && data.user.username!=null)){
+			if(data && data.user && data.user.username && data.user.username!=null){
 				$("#username").html('<i class="fa fa-user"></i> ' + data.user.username);
 			}
 		},

@@ -18,7 +18,22 @@
 #yucca-header{text-align: right; padding: 1.618em 3.236em;}
 #yucca-header a{color: #212529; font-size: 1.2em; font-weight: bold;}
 
+#yucca-footer{margin-top: 1.618em;}
+#yucca-footer .footer-info{display: flex;}
+#yucca-footer .footer-banner{flex-grow: 1;}
+#yucca-footer .footer-info {background-position: top left 15px; background: url(../img/logo_sdn_bw.png) no-repeat; padding-top: 90px; padding-left: 15px; }
 
+#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png);}
+#yucca-footer .footer-banner .logo-csi {background-image: url(../img/logo_csipiemonte_footer.png);}
+#yucca-footer .footer-banner .logo-rp, #yucca-footer .footer-banner .logo-csi{display: inline-block;width: 164px;height: 51px;background-position: center center;background-repeat: no-repeat;background-color: transparent;}
+
+#yucca-footer .footer-menu {border-top: 1px solid #646a6a;}
+#yucca-footer .footer-menu  ul {padding-left: 0;}
+#yucca-footer .footer-menu  ul li {display: inline-flex; text-align: center; padding-top: 10px;}
+#yucca-footer .footer-menu  ul li+ li::before  { content: "|"; padding: 0 .5em; }
+#yucca-footer .footer-menu  ul li a:link, 
+#yucca-footer .footer-menu  ul li a:active, 
+#yucca-footer .footer-menu  ul li a:visited {font-size: 1.75rem; text-decoration:none;}
 
 
 /*
