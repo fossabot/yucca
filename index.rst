@@ -14,5 +14,6 @@ Demo Yucca
    demo/_docs/Yucca_GitHub.rst
    demo/_docs/CreazioneDataset.rst
    demo/_docs/GruppiDataset.rst
+   demo/_docs/prova.rst
    
    
