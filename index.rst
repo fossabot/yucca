@@ -1,5 +1,5 @@
 =============================
-**Yucca Smart Data Platform1**
+**Yucca Smart Data Platform**
 =============================
 
 .. toctree::
