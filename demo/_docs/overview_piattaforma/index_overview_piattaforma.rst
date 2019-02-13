@@ -1,14 +1,8 @@
 **Overview Piattaforma**
 ########################
 
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
+.. figure:: demo/_docs/overview_piattaforma/img/Yucca_Overview.png
 
-- TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
-
--TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
 
 .. toctree::
    :maxdepth: 2
