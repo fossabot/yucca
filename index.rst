@@ -29,32 +29,7 @@ Welcome to Yucca's documentation!
    :caption: Come fare per
 
    _docs/come_fare_per/index_come_fare_per.rst
-   _docs/come_fare_per/1_User_Portal.rst
-   _docs/come_fare_per/2_Accesso_API.rst
-   _docs/come_fare_per/3_Usare_Stream_Dati.rst
-   _docs/come_fare_per/4_Creare_Stream_Dati.rst
-   _docs/come_fare_per/5_Nuovo_Dataset.rst
-   _docs/come_fare_per/6_Gestire_Dataset.rst
-   _docs/come_fare_per/7_Creazione_API.rst
-   _docs/come_fare_per/8_Sensore_Arduino.rst
-   _docs/come_fare_per/9_Inviare_Dati.rst
-   _docs/come_fare_per/10_Codice_SO.rst
-   _docs/come_fare_per/11_Stream_Twitter.rst
-   _docs/come_fare_per/12_Sensori_App.rst
-   _docs/come_fare_per/13_Oauth2.rst
-   _docs/come_fare_per/14_Gestione_Errori.rst
-   _docs/come_fare_per/15_n_elevato_SO.rst
 
-   
-   docs/Cosa_e_Yucca.rst
-   docs/Cosa_puoi_fare.rst
-   docs/Come_accedere.rst
-   docs/Use_Cases.rst
-   docs/Protocolli_Supportati.rst
-   docs/Linee_Guida.rst
-   docs/Yucca_GitHub.rst
-   docs/CreazioneDataset.rst
-   docs/GruppiDataset.rst
 
    
 Indices and tables

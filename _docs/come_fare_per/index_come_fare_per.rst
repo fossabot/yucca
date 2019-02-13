@@ -1,20 +1,34 @@
+************
 Come fare per
-=============
+************
 
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
-TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
+Userportal
+==================
 
-- TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
+.. include:: 1_User_Portal.rst
 
--TestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTestoTesto
+Accesso API
+===================
 
-.. toctree::
-   :maxdepth: 2
-   :numbered:
+.. include:: 1_User_Portal.rst
 
-   1_User_Portal.rst
-   2_Accesso_API.rst
-   3_Usare_Stream_Dati.rst
-   4_Creare_Stream_Dati.rst
+Userportal
+==================
+
+.. include:: 1_User_Portal.rst
+
+Accesso API
+===================
+
+.. include:: 2_Accesso_API.rst
+
+Usare Stream di Dati
+==================
+
+.. include:: 3_Usare_Stream_Dati.rst
+
+Creare Stream di Dati
+===================
+
+.. include:: 4_Creare_Stream_Dati.rst
+
