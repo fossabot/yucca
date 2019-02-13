@@ -14,6 +14,10 @@ Fornisce l’accesso tramite API a numerosi dataset di **open data** (pubblici e
 .. image:: img/Yucca_Platform.png
 .. image:: Yucca_Platform.png
 
+.. figure:: img/gruppidataset.jpg
+
+.. figure:: img/Yucca_Platform.png
+
 
 **Yucca Smart Data Platform** è la piattaforma abilitante precompetitiva a supporto dei soggetti coinvolti nel processo di innovazione che si pone l’obiettivo di essere un supporto per la creazione di un **ecosistema pubblico-privato** in cui cittadini e imprese possano utilizzare le **infrastrutture pubbliche** (piattaforma, strumenti di elaborazione, open-data) per fare business e creare **nuovi servizi**.
 
