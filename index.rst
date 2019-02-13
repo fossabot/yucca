@@ -25,7 +25,6 @@ Welcome to Yucca's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :numbered:
    :caption: Come fare per
 
    _docs/come_fare_per/index_come_fare_per.rst
