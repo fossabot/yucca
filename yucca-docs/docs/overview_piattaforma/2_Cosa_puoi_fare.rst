@@ -1,7 +1,7 @@
 **Cosa puoi fare**
 ******************
 
-La Piattaforma mette a disposizione lo User Portal, attraverso cui utilizzare tutte le funzionalità che permettono di:
+La Piattaforma mette a disposizione lo **User Portal**, attraverso cui utilizzare tutte le funzionalità che permettono di:
 
 * interconnettere applicazioni, social network, sistemi e oggetti distribuiti sul territorio
 *	raccogliere dati e informazioni per consentirne l’elaborazione e l’analisi 
@@ -9,7 +9,7 @@ La Piattaforma mette a disposizione lo User Portal, attraverso cui utilizzare tu
 *	consentire la realizzazione di soluzioni end-to-end finali.
 
 
-Tramite la Piattaforma è possibile gestire informazioni provenienti da fonti eterogenee:
+Tramite la Piattaforma è possibile **gestire informazioni provenienti da fonti eterogenee**:
 
 *	sensori
 *	Ingestion di files
@@ -21,6 +21,7 @@ Tramite la Piattaforma è possibile gestire informazioni provenienti da fonti et
 Utilizzando Yucca puoi:
 
 **Collegare e gestire i tuoi device e le tue applicazioni**
+===========================================================
 
 •	Registra sensori, gateway e smart objects sulla piattaforma per poterli gestire e aggiornare
 •	Collega i tuoi sensori e applicazioni per inviare eventi alla piattaforma e scegliere se renderli disponibili anche ad altri fruitori 
@@ -28,6 +29,8 @@ Utilizzando Yucca puoi:
 
 
 **Pubblicare dati e stream**
+============================
+
 
 •	Pubblica dati puntuali e flussi di dati e rendili disponibili ai fruitori dell’Ecosistema
 •	Pubblica stream multimediali di tipo video e audio connettendo le webcam alla Piattaforma
@@ -37,6 +40,7 @@ Utilizzando Yucca puoi:
 
 
 **Utilizzare gli strumenti della piattaforma**
+==============================================
 
 •	Sviluppa sulla piattaforma delle logiche da eseguire a runtime sugli eventi che transitano in modo da generare nuovi flussi. E' possibile per esempio:
 
@@ -49,6 +53,7 @@ Utilizzando Yucca puoi:
 
 
 **Gestire ed elaborare i tuoi dati**
+====================================
 
 •	Configura il tuo contesto per avere una gestione autonoma dei dati e della loro visibilità
 •	Condividi in modo selettivo e controllato i tuoi dati e stream
@@ -58,6 +63,7 @@ Utilizzando Yucca puoi:
 
 
 **Sottoscrivere la tua applicazione a dati e stream**
+=====================================================
 
 •	Cerca e sottoscriviti alle API disponibili nello Store per accedere ai dati pubblici/privati disponibili nel Big Data Storage
 •	Sottoscriviti agli stream real-time disponibili nello Store per poter ricevere, in push, feed forniti dalla piattaforma
