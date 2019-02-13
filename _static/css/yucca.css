@@ -1,0 +1,73 @@
+.wy-body-for-nav{background: #fff url(../img/bg.jpg) repeat;}
+.wy-side-nav-search{background-color: #ecf1ed;}
+.wy-side-nav-search>a{color: #212529;}
+.wy-side-nav-search>div.version {margin:0; display: inline-block;font-size: .9em;color: #999b9d;}
+.wy-nav-side{background-color: #fff; box-shadow: 7px 0px 12px 1px #dee2e6; color:#999b9d; }
+.wy-menu-vertical a{color:#212529; }
+.wy-menu-vertical a:hover {background-color: #4e4a4a;color:#fff;}
+
+
+.wy-nav-content-wrap{background-color: transparent;}
+.wy-nav-content{ box-shadow: 7px 0px 12px 1px #dee2e6;background-color: #fff; padding: 0;}
+.wy-nav-content .rst-content{padding: 1.618em 3.236em;}
+
+
+
+
+.yucca-logo{background: transparent url(../img/logoyucca.png) no-repeat center;min-width: 190px;height: 130px; display: block; margin-bottom: 2em;}
+#yucca-header{text-align: right; padding: 1.618em 3.236em;}
+#yucca-header a{color: #212529; font-size: 1.2em; font-weight: bold;}
+#yucca-header #username{margin-left: 2.2em}
+
+#yucca-footer{margin-top: 1.618em; padding: 1.618em 3.236em;background-color: #ecf1ed;}
+#yucca-footer .footer-info{display: flex;}
+#yucca-footer .footer-banner{flex-grow: 1;}
+#yucca-footer .footer-intro {flex-grow: 1;background-position: top left 15px; background: url(../img/logo_sdn_bw.png) no-repeat; padding-top: 45px; padding-left: 0px; }
+
+#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png);}
+#yucca-footer .footer-banner .logo-csi {background-image: url(../img/logo_csipiemonte_footer.png);}
+#yucca-footer .footer-banner .logo-rp, #yucca-footer .footer-banner .logo-csi{display: block;width: auto;height: 51px;background-position: center center;background-repeat: no-repeat;background-color: transparent;}
+
+#yucca-footer .footer-menu {border-top: 1px solid #646a6a;}
+#yucca-footer .footer-menu  ul {padding-left: 0;}
+#yucca-footer .footer-menu  ul li {display: inline-flex; text-align: center; padding-top: 10px;}
+#yucca-footer .footer-menu  ul li+ li::before  { content: "|"; padding: 0 .5em; }
+#yucca-footer .footer-menu  ul li a:link, 
+#yucca-footer .footer-menu  ul li a:active, 
+#yucca-footer .footer-menu  ul li a:visited {text-decoration:none;}
+
+
+/*
+.wy-grid-for-nav{display: flex;}
+.wy-nav-side {position: inherit;}
+.wy-nav-content-wrap{margin-left: 0;}
+.rst-versions {position: inherit;}
+.wy-grid-for-nav{position: inherit;}
+
+#yucca-header{background-color: #ecf1ed;}
+#yucca-header .brand-navbar .navbar-brand {background: transparent url(../img/logoyucca_header.png) no-repeat center;width: 424px;height: 67px; display: block;}
+
+#yucca-footer{background-color: #343d3c;color: #fff;text-align: center;font-size: 1.75rem;padding: 48px 3.75rem;}
+#yucca-footer div{text-align: left;}
+#yucca-footer a{text-decoration: none;}
+#yucca-footer p{margin-bottom: 1.25rem;}
+#yucca-footer .row{display: flex; flex-wrap: wrap;}
+#yucca-footer .footer-info {background-position: top left 15px; background: url(../img/logo_sdn_bw.png) no-repeat; padding-top: 90px; padding-left: 15px; }
+#yucca-footer .footer-info, #yucca-footer .footer-banner {flex: 0 0 50%; max-width: 50%;}
+#yucca-footer a:link, #yucca-footer a:active, #yucca-footer a:visited {color: #fff; font-size: 1.3125rem;}
+#yucca-footer .footer-banner {padding-top: 32px; justify-content: flex-end; display: flex;}
+
+#yucca-footer .footer-banner .logo-rp {background-image: url(../img/logo_regionepiemonte_footer.png);}
+#yucca-footer .footer-banner .logo-csi {background-image: url(../img/logo_csipiemonte_footer.png);}
+#yucca-footer .footer-banner .logo-rp, #yucca-footer .footer-banner .logo-csi{display: inline-block;width: 164px;height: 51px;background-position: center center;background-repeat: no-repeat;background-color: transparent;}
+
+#yucca-footer .footer-menu .row {border-top: 1px solid #646a6a;}
+#yucca-footer .footer-menu .footer-menu-box {flex: 0 0 100%; max-width: 100%;position: relative;width: 100%;min-height: 1px; padding-right: 15px; padding-left: 15px; text-align: left;}
+#yucca-footer .footer-menu .footer-menu-box ul {padding-left: 0;}
+#yucca-footer .footer-menu .footer-menu-box ul li {display: inline-flex; text-align: center; padding-top: 10px;}
+#yucca-footer .footer-menu .footer-menu-box ul li+ li::before  { content: "|"; padding: 0 .5em; }
+#yucca-footer .footer-menu .footer-menu-box ul li a:link, 
+#yucca-footer .footer-menu .footer-menu-box ul li a:active, 
+#yucca-footer .footer-menu .footer-menu-box ul li a:visited {font-size: 1.75rem; text-decoration:none;}
+
+*/
