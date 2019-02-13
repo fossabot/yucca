@@ -39,7 +39,7 @@
 
 
 
-**Esempi in ambito Iot – Publisher/Subscriber**
+**Esempi in ambito IoT – Publisher/Subscriber**
 ===============================================
 
 •	`Smart commuter <http://developer.smartdatanet.it/platform/use-cases/smart-commuter/>`_
