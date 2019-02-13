@@ -1,7 +1,8 @@
 **Overview Piattaforma**
 ########################
 
-.. image:: yucca-docs/docs/overview_piattaforma/img/Yucca_Overview.png
+
+.. image:: img/Yucca_Overview.png
 
 
 .. toctree::
