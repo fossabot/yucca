@@ -1,2 +1,2 @@
-Usare_Stream_Dati
-*****************
+**Utilizzare stream di dati presenti su Yucca**
+***********************************************

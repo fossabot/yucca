@@ -1,2 +1,2 @@
-User Portal
-***********
+**Accedere allo User Portal e allo store**
+******************************************

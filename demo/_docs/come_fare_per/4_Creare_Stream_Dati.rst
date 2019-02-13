@@ -1,2 +1,2 @@
-Creare_Stream_Dati
-******************
+**Creare uno stream di dati a partire da stream esistenti**
+***********************************************************

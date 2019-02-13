@@ -1,4 +1,4 @@
-**Cos' è Yucca**
+**Cosa è Yucca**
 ****************
 
 **Yucca Smart Data Platform** è una piattaforma cloud aperta e precompetitiva della **Regione Piemonte**, realizzata dal **CSI Piemonte** con tecnologie open source e disponibile per soggetti privati e pubblici.
