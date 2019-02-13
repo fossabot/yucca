@@ -8,6 +8,10 @@
 Fornisce l’accesso tramite API a numerosi dataset di **open data** (pubblici e privati) e consente di realizzare applicazioni in ambito **Internet of Things**, **Big Data**, gestire flussi di **dati in real time**, fare **data analytics** e **molto altro**… (**metti il link alla pagina Cosa puoi fare**)
 
 
+.. image:: yucca-docs/docs/overview_piattaforma/img/Yucca_Platform.png
+.. image:: docs/overview_piattaforma/img/Yucca_Platform.png
+.. image:: overview_piattaforma/img/Yucca_Platform.png
+.. image:: img/Yucca_Platform.png
 .. image:: Yucca_Platform.png
 
 
