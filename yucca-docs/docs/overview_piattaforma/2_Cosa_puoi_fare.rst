@@ -3,6 +3,8 @@
 **Cosa puoi fare**
 ******************
 
+**Pagina Attuale** `Link <http://developer.smartdatanet.it/platform/cosa-puoi-fare/>`_
+
 La Piattaforma mette a disposizione lo User Portal, attraverso cui utilizzare tutte le funzionalità che permettono di:
 
 * interconnettere applicazioni, social network, sistemi e oggetti distribuiti sul territorio

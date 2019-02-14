@@ -1,5 +1,9 @@
+.. _come_accedere:
+
 **Come accedere alla piattaforma**
 **********************************
+
+**Pagina Attuale** `Link <http://developer.smartdatanet.it/platform/come-accedere-alla-piattaforma/>`_
 
 Yucca Smart Data Platform è messa a disposizione **gratuitamente** alle imprese e ai cittadini da parte di **Regione Piemonte**.
 
