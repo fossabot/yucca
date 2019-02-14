@@ -4,7 +4,8 @@
 ******************************************
 
 (ex Prassi per la generazione del codice di uno smart object  - DOC) 
-`Pagina Attuale <http://developer.smartdatanet.it/docs/prassi-per-la-generazione-del-codice-di-uno-smart-object/>`_
+
+**Pagina Attuale** `Link <http://developer.smartdatanet.it/docs/prassi-per-la-generazione-del-codice-di-uno-smart-object/>`_
 
 Ogni smart object sulla piattaforma deve essere identificato univocamente da un codice che rispetti il formato:
 

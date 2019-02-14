@@ -4,7 +4,8 @@
 ************************************
 
 (ex Specifiche di interfaccia ingresso e uscita per dati alfanumerici - DOC) 
-`Pagina attuale <http://developer.smartdatanet.it/docs/specifiche-di-interfaccia-ingresso-e-uscita-per-dati-alfanumerici/>`_
+
+**Pagina Attuale** `Link <http://developer.smartdatanet.it/docs/specifiche-di-interfaccia-ingresso-e-uscita-per-dati-alfanumerici/>`_
 
 
 
