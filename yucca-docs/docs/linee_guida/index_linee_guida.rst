@@ -1,5 +1,6 @@
-**Linee Guida - Yucca Smart Data Platforma**
-############################################
+**Linee Guida**
+###############
+
 
 
 **Pagina Attuale** `Link <http://developer.smartdatanet.it/area-developer/linee-guida/>`_
