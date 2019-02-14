@@ -13,5 +13,5 @@
    3_Come_accedere.rst
    4_Use_cases.rst
    5_Protocolli_supportati.rst
-   6_Linee_guida.rst
+
    7_Yucca_su_GitHub.rst
