@@ -1,6 +1,13 @@
 **Linee Guida - Yucca Smart Data Platforma**
 ############################################
 
+
+**Pagina Attuale** `Link <http://developer.smartdatanet.it/area-developer/linee-guida/>`_
+
+
+
+
+
 In questa pagina verranno caricate le linee guida della piattaforma
 
 Nel documento di `Linee Guida <http://developer.smartdatanet.it/wp-content/uploads/2014/09/Linee-Guida-per-l%E2%80%99integrazione-in-Smart-Data-Net-v1_3-1.pdf>`_ sono riportate:
@@ -16,9 +23,6 @@ Fai click `qui <http://developer.smartdatanet.it/wp-content/uploads/2014/09/Line
 **Estensioni e modifiche del documento delle linee guida**
 
 
-
-.. toctree::
-   :maxdepth: 2
 
 
 
