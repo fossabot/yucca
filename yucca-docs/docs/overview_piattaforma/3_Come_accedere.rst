@@ -5,6 +5,8 @@
 
 **Pagina Attuale** `Link <http://developer.smartdatanet.it/platform/come-accedere-alla-piattaforma/>`_
 
+èèèè
+
 Yucca Smart Data Platform è messa a disposizione **gratuitamente** alle imprese e ai cittadini da parte di **Regione Piemonte**.
 
 Per utilizzare le funzionalità di Yucca vi sono **due** modi:
@@ -13,11 +15,8 @@ Per utilizzare le funzionalità di Yucca vi sono **due** modi:
 
 .. image:: img/Prova_Yucca.png
 
-.. image:: https://i.imgur.com/TZM2QJU.png
-
 
 * `Richiedi un'area di lavoro <https://yucca.smartdatanet.it/richiedi.html>`_
 
 .. image:: img/Richiedi_area_lavoro.png
 
-.. image:: https://i.imgur.com/Fmktn0k.png
