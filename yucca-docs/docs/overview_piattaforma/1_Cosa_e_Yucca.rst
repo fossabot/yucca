@@ -9,7 +9,7 @@
 
 
 È una **piattaforma big data** messa a disposizione di cittadini e imprese che offre strumenti per sperimentare e creare **soluzioni tecnologiche innovative** legate al mondo dei dati e del digitale. 
-Fornisce l’accesso tramite API a numerosi dataset di **open data** (pubblici e privati) e consente di realizzare applicazioni in ambito **Internet of Things**, **Big Data**, gestire flussi di **dati in real-time**, fare **data analytics** e **molto altro**… (**metti il link alla pagina Cosa puoi fare**)
+Fornisce l’accesso tramite API a numerosi dataset di **open data** (pubblici e privati) e consente di realizzare applicazioni in ambito **Internet of Things**, **Big Data**, gestire flussi di **dati in real-time**, fare **data analytics** e :ref:`molto altro <cosa_puoi_fare>` ...
 
 
 .. image:: img/YuccaPlatform.png
