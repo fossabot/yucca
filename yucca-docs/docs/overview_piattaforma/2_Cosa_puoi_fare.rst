@@ -1,8 +1,8 @@
 .. _cosa_puoi_fare:
 
-==================
 **Cosa puoi fare**
-==================
+******************
+
 La Piattaforma mette a disposizione lo User Portal, attraverso cui utilizzare tutte le funzionalità che permettono di:
 
 * interconnettere applicazioni, social network, sistemi e oggetti distribuiti sul territorio
