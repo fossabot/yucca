@@ -1,5 +1,10 @@
+.. _use_cases:
+
 **Use Cases**
 *************
+
+**Pagina Attuale** `Link <http://developer.smartdatanet.it/platform/use-cases/>`_
+
 
 **Progetti in Corso**
 =====================

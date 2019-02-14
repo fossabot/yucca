@@ -1,11 +1,17 @@
+.. _protocolli_supportati:
+
 **Protocolli Supportati da Yucca**
 ************************************************
+
+**Pagina Attuale** `Link <http://developer.smartdatanet.it/docs/vista-di-insieme-dei-protocolli-iot-disponibili/>`_
 
 Attualmente, YUCCA supporta i seguenti protocolli di Input/Output
  
 In questo articolo vengono descritte solo le informazioni principali relative ai protocolli. Le indicazioni sulle architetture applicative sono solo a titolo esemplificativo: l’architettura da adottare e i protocolli da utilizzare dipendono dai requisiti dell’applicazione e la loro scelta è a carico dei gruppi di progetto delle stesse. Per il formato dei messaggi e per le URL delle code e dei servizi vedere questa pagina.
 
-.. figure:: img/protocolli-yucca.png 
+.. image:: img/protocolli-yucca.png 
+
+
 **Protocollo di streaming MQTT(s) (input/output)**
 **MQTT (Message Queuing Telemetry Transport)** è un protocollo di messaggistica leggero, studiato per dispositivi limitati in termini di risorse (cpu, memoria) che operano su reti a bassa largheza di banda e ad alta latenza. Implementa il paradigma publish/subscribe. E’ uno standard OASIS. E’ utilizzabile sia in INPUT che in OUTPUT.
 
