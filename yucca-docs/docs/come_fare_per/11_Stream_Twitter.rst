@@ -22,7 +22,7 @@ E’ necessario premere tale bottone e, accedendo al proprio account Twitter, au
 
 Tra i campi di questa tipologia di smart object è presente anche il numero massimo di stream (e quindi di ricerche twitter) che potranno essere definiti per quello smart object ( e quindi per quell’utenza).
 
-.. image:: img/Stream_Twitter1.png
+.. image:: img/Stream_Twitter1.jpg
 
 Le policy di accesso di Twitter prevedono un numero massimo di interrogazioni per ogni utente (180 interrogazioni in 15 minuti).
 
@@ -35,7 +35,7 @@ In fase di modifca dello smart object è possibile modificare Nome, Descrizione 
 
 Nella definzione di uno stream associato ad uno smart object di tipo feed tweet, le impostazioni specifiche per questa tipologia sono nello step 4 del wizard.
 
-.. image:: img/Stream_Twitter2.png
+.. image:: img/Stream_Twitter2.jpg
 
 La query di ricerca definisce la ricerca che viene eseguita su twitter (ed esempio #iphone)
 
@@ -43,5 +43,6 @@ Lingua à se impostata, ricerca solo i tweet scritti nella lingua selezionata.
 
 Ricerca Geolocalizzata à si definisce  un ulteriore filtro di ricerca in base ad una determinata posizione geografica (coordinate lon/lat, raggio di ricerca e unità di misura in cui è espresso il raggio – km o miglia)
 
-**NOTA** - Viene riportato l’intervallo di polling (in secondi) ossia la frequenza con la quale lo stream interroga le api twitter. Tale frequenza dipende dal numero di stream associati allo stesso smart object
+**NOTA**
+Viene riportato l’intervallo di polling (in secondi) ossia la frequenza con la quale lo stream interroga le api twitter. Tale frequenza dipende dal numero di stream associati allo stesso smart object
 
