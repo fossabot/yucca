@@ -154,7 +154,7 @@ xmlHttp.setRequestHeader("Content-Type", "application/json");
 
 xmlHttp.send( messaggio );
 
-l’utilizzo di altri linguaggi segue regole molto simili. Per il loro utilizzo si rimanda alla documentazione ufficiale del singolo framework di sviluppo.
+L’utilizzo di altri linguaggi segue regole molto simili. Per il loro utilizzo si rimanda alla documentazione ufficiale del singolo framework di sviluppo.
 
 
 **Invio tramite MQTT**
