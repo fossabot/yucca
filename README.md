@@ -39,6 +39,7 @@
 Here a high level component diagram:
 
 ![Image of high level component diagram](img/component_diagram.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcsipiemonte%2Fyucca.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcsipiemonte%2Fyucca?ref=badge_shield)
 
 ###Auxiliary repositories:
 
@@ -51,3 +52,7 @@ Here a high level component diagram:
 - Integration with Zeppelin to create a complete self-service experience (from sensor to reporting)
 - Integration with Apache Ranger for security also at speed layer level
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcsipiemonte%2Fyucca.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcsipiemonte%2Fyucca?ref=badge_large)
