@@ -89,7 +89,7 @@ Il ciclo di vita è il seguente:
 Il token generato ha una validità, non modificabile, di 30758099 secondi (356 giorni). Alla sua scadenza deve essere rigenerato invocando nuovamente il servizi per la creazione del token altrimenti non si potrà più accedere alle risorse protette.
 
 **Come invocare i servizi per la generazione del token**
---------------------------------------------------------
+========================================================
 
 Il richiamo di questo servizio deve avvenire in modalità http/POST con protocollo HTTPS.
 L’end point del servizio è: https://api.smartdatanet.it/api/token
@@ -159,7 +159,7 @@ Il formato JSON di risposta, secondo lo standard Oauth è simle al seguente:
 Nell’esempio fornito, il codice Javascript esegue il parsing del JSON e restituisce direttamente il token.
 
 **Come accedere ai servizi di lettura autenticandosi con Oauth**
-----------------------------------------------------------------
+================================================================
 
 **Invocazione dei servizi oData**
 
