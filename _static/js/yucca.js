@@ -1,3 +1,4 @@
+/*
 $(document).ready(function(){
 	$.ajax({
 		url : 'https://userportal.smartdatanet.it/userportal/api/info?',
@@ -13,4 +14,4 @@ $(document).ready(function(){
 			console.log("Error info: "+JSON.stringify(request));
 		}
 	});
-});
+});*/
